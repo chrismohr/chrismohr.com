@@ -1,0 +1,4 @@
+baseURL = "http://chrismohr.com/"
+languageCode = "en-us"
+title = "Chris Mohr"
+theme = "dimension"
